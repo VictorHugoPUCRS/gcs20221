@@ -1,2 +1,13 @@
 # gcs20221
-Repositório teste da disciplina de GCS
+Repositório de teste da disciplina de GCS
+
+Estou tendo minha primeira aula de Git.
+Esta é outra linha que eu escrevi
+
+Algumas linguagens que conheço sao:
+Java
+C#
+Python
+C++
+
+FIM DO ARQUIVO
